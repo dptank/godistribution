@@ -1,0 +1,6 @@
+/.idea
+install.sql
+pack.sh
+README.md
+service.sh
+docker-compose.yaml
